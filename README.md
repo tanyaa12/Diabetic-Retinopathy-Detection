@@ -179,6 +179,3 @@ Use the interactive interface below to upload retinal images and get predictions
 4. Interpret the results provided by the model.
 
 
-
-www.github.com/bhimrazy)
-
